@@ -55,3 +55,8 @@ scrabble.score # => 22
 
 scrabble = Scrabble.new('OXYPHENBUTAZONE')
 scrabble.score # => 41
+
+###Instructions
+
+1. Clone this repo
+2. `bundle install`
